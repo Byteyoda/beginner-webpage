@@ -1,2 +1,3 @@
-# Byteyoda.github.io
-my first walk as a developer
+# Byteyoda/beginner-webpage.git
+my walk as a developer
+
