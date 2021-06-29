@@ -1,3 +1,3 @@
-# Byteyoda/beginner-webpage.git
+#Byteyoda.beginner-webpage.git
 my walk as a developer
 
